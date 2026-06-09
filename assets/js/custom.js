@@ -44,7 +44,7 @@
     });
 
     // Buy Now Btn
-$('body').append("<a href='#booking' class='buy-now-btn'><img src='assets/images/envato.png' alt='Get Demo'/>Open Live Demo</a>");
+$('body').append("<a href='https://digvcard.netlify.app/' class='buy-now-btn'><img src='assets/images/envato.png' alt='Get Demo'/>Open Live Demo</a>");
 
     $(".main-banner-slider-area").owlCarousel({
         autoplayHoverPause: true,
